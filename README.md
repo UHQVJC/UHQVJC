@@ -7,6 +7,7 @@ Utilizamos como ferramenta nas aulas de robótica e os cursos do Alura. (https:/
 Utilizo esse espaço para organização e compartilhamento dos meus projetos 
 ![](https://media.tenor.com/YTjJFAEDIvAAAAAM/a-dancing-dancing-a.gif)
 ![](https://media.tenor.com/X1UBzspDL3kAAAAM/burn-in-hell-elmo.gif).
+![](https://media.tenor.com/dlJSiLUJNmsAAAAM/math-calculate.gif)
 
 ### Você pode entrar em contato comigo
 00001096766000sp@al.educacao.sp.gov.br
